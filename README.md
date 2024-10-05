@@ -10,6 +10,4 @@ A simple Python-based port scanner that detects open ports on a specified IP add
 
 ## Prerequisites
 
-- `sockets`
-- `os`
-- `pystyle`
+- `python`
