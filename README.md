@@ -10,13 +10,6 @@ A simple Python-based port scanner that detects open ports on a specified IP add
 
 ## Prerequisites
 
-Make sure you have Python installed on your machine. This project requires the following Python packages:
-
 - `sockets`
 - `os`
 - `pystyle`
-
-You can install the required package using pip:
-
-```bash
-pip install pystyle
