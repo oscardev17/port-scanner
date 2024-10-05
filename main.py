@@ -1,5 +1,8 @@
-import socket
-import os
+# ================================== #
+# This program was created by Oscar  #
+# ================================== #
+
+import socket, os
 from concurrent.futures import ThreadPoolExecutor
 from pystyle import Colors
 
